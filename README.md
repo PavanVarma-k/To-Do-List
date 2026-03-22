@@ -4,10 +4,12 @@ This is a simple To-Do List application built as a practice project to improve m
 This project helped me practice working with user input, handling events, and managing data on the client side using modern JavaScript (ES6).
 
 Technologies Used 
-HTML -- 
+
+HTML 
 CSS
 JavaScript
 Local Storage
 
 How to Run
+
 Clone the repository and open the index.html file in your browser.
